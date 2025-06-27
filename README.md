@@ -10,19 +10,11 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Web Development**: Django, HTML, CSS, Bootstrap
+- 💻 **Web Development**: <img src="https://skillicons.dev/icons?i=django,html,css,bootstrap&perline=5" alt="Tech Stack" />Django, HTML, CSS, Bootstrap
 - 🧠 **Database**: MySQL, SQLite
 - 🎨 **Design Tools**: Adobe Photoshop, Illustrator, Canva
 - 📦 **Others**: Git, GitHub, VS Code, Hostinger VPS, Laragon
 - 🐣 **Learning**: Golang
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adearanda&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 ---
 
