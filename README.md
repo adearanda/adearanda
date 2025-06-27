@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Web Development**: <img src="https://skillicons.dev/icons?i=django,html,css,bootstrap&perline=5" alt="Tech Stack" />Django, HTML, CSS, Bootstrap
+- 💻 **Web Development**: Django, HTML, CSS, Bootstrap
 - 🧠 **Database**: MySQL, SQLite
 - 🎨 **Design Tools**: Adobe Photoshop, Illustrator, Canva
 - 📦 **Others**: Git, GitHub, VS Code, Hostinger VPS, Laragon
